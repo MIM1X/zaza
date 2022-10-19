@@ -1,0 +1,14 @@
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\bin\Debug\netcoreapp3.1\1prg.exe
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\bin\Debug\netcoreapp3.1\1prg.deps.json
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\bin\Debug\netcoreapp3.1\1prg.runtimeconfig.json
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\bin\Debug\netcoreapp3.1\1prg.runtimeconfig.dev.json
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\bin\Debug\netcoreapp3.1\1prg.dll
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\bin\Debug\netcoreapp3.1\1prg.pdb
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.csproj.AssemblyReference.cache
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.AssemblyInfoInputs.cache
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.AssemblyInfo.cs
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.csproj.CoreCompileInputs.cache
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.dll
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.pdb
+C:\Users\41s41\OneDrive\Рабочий стол\hyuZnaet\1prg\1prg\obj\Debug\netcoreapp3.1\1prg.genruntimeconfig.cache

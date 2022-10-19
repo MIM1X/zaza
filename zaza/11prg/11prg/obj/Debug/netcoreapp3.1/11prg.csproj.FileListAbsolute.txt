@@ -1,0 +1,13 @@
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\bin\Debug\netcoreapp3.1\11prg.exe
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\bin\Debug\netcoreapp3.1\11prg.deps.json
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\bin\Debug\netcoreapp3.1\11prg.runtimeconfig.json
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\bin\Debug\netcoreapp3.1\11prg.runtimeconfig.dev.json
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\bin\Debug\netcoreapp3.1\11prg.dll
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\bin\Debug\netcoreapp3.1\11prg.pdb
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.AssemblyInfo.cs
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.dll
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.pdb
+C:\Users\stud\Desktop\hyuZnaet\11prg\11prg\obj\Debug\netcoreapp3.1\11prg.genruntimeconfig.cache

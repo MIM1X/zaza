@@ -1,0 +1,14 @@
+C:\Users\stud\source\repos\7prg\7prg\bin\Debug\netcoreapp3.1\7prg.exe
+C:\Users\stud\source\repos\7prg\7prg\bin\Debug\netcoreapp3.1\7prg.deps.json
+C:\Users\stud\source\repos\7prg\7prg\bin\Debug\netcoreapp3.1\7prg.runtimeconfig.json
+C:\Users\stud\source\repos\7prg\7prg\bin\Debug\netcoreapp3.1\7prg.runtimeconfig.dev.json
+C:\Users\stud\source\repos\7prg\7prg\bin\Debug\netcoreapp3.1\7prg.dll
+C:\Users\stud\source\repos\7prg\7prg\bin\Debug\netcoreapp3.1\7prg.pdb
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.AssemblyInfo.cs
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.dll
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.pdb
+C:\Users\stud\source\repos\7prg\7prg\obj\Debug\netcoreapp3.1\7prg.genruntimeconfig.cache

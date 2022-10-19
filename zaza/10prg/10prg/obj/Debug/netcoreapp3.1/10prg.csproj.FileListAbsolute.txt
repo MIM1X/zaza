@@ -1,0 +1,14 @@
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\bin\Debug\netcoreapp3.1\10prg.exe
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\bin\Debug\netcoreapp3.1\10prg.deps.json
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\bin\Debug\netcoreapp3.1\10prg.runtimeconfig.json
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\bin\Debug\netcoreapp3.1\10prg.runtimeconfig.dev.json
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\bin\Debug\netcoreapp3.1\10prg.dll
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\bin\Debug\netcoreapp3.1\10prg.pdb
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.AssemblyInfo.cs
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.dll
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.pdb
+C:\Users\stud\Desktop\hyuZnaet\10prg\10prg\obj\Debug\netcoreapp3.1\10prg.genruntimeconfig.cache

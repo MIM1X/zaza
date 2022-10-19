@@ -1,0 +1,14 @@
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.AssemblyInfo.cs
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\5prg\5prg\bin\Debug\netcoreapp3.1\5prg.exe
+C:\Users\stud\source\repos\5prg\5prg\bin\Debug\netcoreapp3.1\5prg.deps.json
+C:\Users\stud\source\repos\5prg\5prg\bin\Debug\netcoreapp3.1\5prg.runtimeconfig.json
+C:\Users\stud\source\repos\5prg\5prg\bin\Debug\netcoreapp3.1\5prg.runtimeconfig.dev.json
+C:\Users\stud\source\repos\5prg\5prg\bin\Debug\netcoreapp3.1\5prg.dll
+C:\Users\stud\source\repos\5prg\5prg\bin\Debug\netcoreapp3.1\5prg.pdb
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.dll
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.pdb
+C:\Users\stud\source\repos\5prg\5prg\obj\Debug\netcoreapp3.1\5prg.genruntimeconfig.cache

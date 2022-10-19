@@ -1,0 +1,14 @@
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\bin\Debug\netcoreapp3.1\8prg.exe
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\bin\Debug\netcoreapp3.1\8prg.deps.json
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\bin\Debug\netcoreapp3.1\8prg.runtimeconfig.json
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\bin\Debug\netcoreapp3.1\8prg.runtimeconfig.dev.json
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\bin\Debug\netcoreapp3.1\8prg.dll
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\bin\Debug\netcoreapp3.1\8prg.pdb
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.AssemblyInfo.cs
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.dll
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.pdb
+C:\Users\stud\Desktop\hyuZnaet\8prg\8prg\obj\Debug\netcoreapp3.1\8prg.genruntimeconfig.cache
